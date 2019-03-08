@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class StudentDemo 
 {
     private String PoliticalParty;
+    private int fetch;
   private String studentID;
   private String name;
   private String program;
