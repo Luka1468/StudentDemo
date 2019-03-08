@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class StudentDemo 
 {
-    private String coolaid;
+    private String PoliticalParty;
   private String studentID;
   private String name;
   private String program;
