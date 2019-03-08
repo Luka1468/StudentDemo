@@ -13,6 +13,7 @@ public class StudentDemo
 {
     private String PoliticalParty;
     String leader;
+    String cooll;
   private String studentID;
   private String name;
   private String program;
