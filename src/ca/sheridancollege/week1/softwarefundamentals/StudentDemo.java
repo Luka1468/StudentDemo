@@ -11,12 +11,13 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class StudentDemo 
 {
+    private String coolaid;
   private String studentID;
   private String name;
   private String program;
-  private String Luka;
-  private int i;
-
+  private String course;
+  private String demo;
+  
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
